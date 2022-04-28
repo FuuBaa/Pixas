@@ -4,7 +4,7 @@
 <head>
     <!-- Page Title -->
     
-    <title>Anefty || NFT Marketplace HTML5 Template</title>
+    <title>Pixas Image Collection</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -23,6 +23,7 @@
         href="https://fonts.googleapis.com/css2?family=Lexend:wght@500;600;700&family=Roboto:wght@400;700&display=swap"
         rel="stylesheet">
 
+        @include('partials/css')
 
 </head>
 

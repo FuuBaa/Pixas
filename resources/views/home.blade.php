@@ -1,3 +1,6 @@
+@extends('layouts.app')
+@section('title', 'Pixas')
+@section('content')
 <!-- Banner -->
 <div class="banner ov-hidden">
         <div id="particles" data-bg-img="assets/img/bg/banner-bg.png"></div>

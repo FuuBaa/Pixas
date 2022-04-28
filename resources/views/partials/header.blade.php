@@ -65,9 +65,6 @@
                                                 <li><a href="activity.html">Activity</a></li>
                                                 <li><a href="upload.html">Upload</a></li>
                                                 <li><a href="profile-edit.html">Profile Edit</a></li>
-                                                <li><a href="login.html">Login</a></li>
-                                                <li><a href="register.html">Register</a></li>
-                                                <li><a href="404.html">404</a></li>
                                                 <li><a href="coming-soon.html">Coming Soon</a></li>
                                             </ul>
                                         </li>
@@ -78,7 +75,6 @@
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                     <!-- End Nav -->
                                 </div>
@@ -107,9 +103,6 @@
                                             <li><a class="dropdown-item" href="collection.html"><img
                                                         src="assets/img/icons/collection.svg" alt="">
                                                     Collection</a></li>
-                                            <li><a class="dropdown-item" href="wallet.html"><img
-                                                        src="assets/img/icons/wallet.svg" alt=""> Wallet</a>
-                                            </li>
                                             <li><a class="dropdown-item" href="explore.html"><img
                                                         src="assets/img/icons/explore.svg" alt="">
                                                     Explore</a></li>
