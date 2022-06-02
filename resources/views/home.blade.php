@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Pixas')
+@section('title', 'Home')
 @section('content')
 <!-- Banner -->
 <div class="banner ov-hidden">
@@ -994,3 +994,4 @@
         </div>
     </section>
 <!-- End Top Collection -->
+@endsection

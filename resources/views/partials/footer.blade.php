@@ -57,8 +57,8 @@
                         <!-- Widget About -->
                         <div class="widget text-center text-white widget_about">
                             <img src="assets/img/footer-logo-light.svg" alt="" class="svg footer-logo">
-                            <p>The anefty first large digital marketplace crypto collectibles & non fungible token buy
-                                sell & discover digital assets.</p>
+                            <p>Pixas menyediakan koleksi gambar dari seluruh dunia yang gratis diunduh 
+                                dan dinikmati semua orang.</p>
 
                             <!-- Socials -->
                             <div class="socials d-flex justify-content-center align-items-center">

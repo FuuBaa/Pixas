@@ -4,7 +4,7 @@
 <head>
     <!-- Page Title -->
     
-    <title>Pixas Image Collection</title>
+    <title>{{config('app.name')}} @yield('title')</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -12,17 +12,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.png" />
-
-    <!-- Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Lexend:wght@500;600;700&family=Roboto:wght@400;700&display=swap"
-        rel="stylesheet">
-
         @include('partials/css')
 
 </head>
@@ -44,11 +33,6 @@
     <!-- Footer -->
     @include('partials/footer')
     <!-- End Footer -->
-
-    <!-- Back to Top Button -->
-    <a href="#" class="back-to-top">
-        <i class="fas fa-long-arrow-alt-up"></i>
-    </a>
     <!-- End Back to Top Button -->
     @include('partials/script')
 

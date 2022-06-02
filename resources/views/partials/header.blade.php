@@ -48,9 +48,9 @@
                                         <li>
                                             <a href="#">Explore</a>
                                             <ul class="sub-menu">
-                                                <li><a href="explore.html">Explore</a></li>
+                                                <li><a href="{{route('explore')}}">Explore</a></li>
                                                 <li><a href="profile.html">Profile</a></li>
-                                                <li><a href="create.html">Create</a></li>
+                                                <li><a href="{{route('upload')}}">Create</a></li>
                                                 <li><a href="wallet.html">Wallet</a></li>
                                                 <li><a href="help-center.html">Help Center</a></li>
                                             </ul>
@@ -80,7 +80,7 @@
                                 </div>
 
                                 <div class="d-none d-md-flex align-items-center ms-4">
-                                    <a href="create.html" class="btn">
+                                    <a href="{{route('upload')}}" class="btn">
                                         <img src="assets/img/icons/create-icon.svg" alt="" class="svg">
                                         Create
                                     </a>
@@ -97,7 +97,7 @@
                                             <li><a class="dropdown-item" href="profile.html"><img
                                                         src="assets/img/icons/profile.svg" alt="">
                                                     Profile</a></li>
-                                            <li><a class="dropdown-item" href="create.html"><img
+                                            <li><a class="dropdown-item" href="{{route('upload')}}"><img
                                                         src="assets/img/icons/create.svg" alt=""> Create</a>
                                             </li>
                                             <li><a class="dropdown-item" href="collection.html"><img

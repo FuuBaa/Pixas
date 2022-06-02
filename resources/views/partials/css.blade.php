@@ -1,4 +1,13 @@
-    <!-- ======= FontAwesome ======= -->
+<!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.png" />
+
+<!-- Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Lexend:wght@500;600;700&family=Roboto:wght@400;700&display=swap"
+    rel="stylesheet">
+<!-- ======= FontAwesome ======= -->
     <link rel="stylesheet" href="assets/css/all.min.css" />
 
     <!-- ======= Bootstrap ======= -->

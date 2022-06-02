@@ -34,4 +34,9 @@ class HomeController extends Controller
     {
         return view('upload');
     }
+    public function item()
+    {
+        return view('item');
+    }
+
 }
